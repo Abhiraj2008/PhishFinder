@@ -1,8 +1,0 @@
-Flask>=3.0.0
-gunicorn>=21.2.0
-requests>=2.31.0
-
-# Optional: Uncomment if deploying with live PyTorch on a high-memory/GPU host
-# torch>=2.0.0
-# transformers>=4.30.0
-
